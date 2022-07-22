@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Character
+  - Note1
+  - Journal
+  - Read
+  - Pyramid
+  - Wall1
+  - Trap
+  - colon1
+  - cat1
+  - cat2
+  - kedi1
+  - kedi2
+  - Wall2
+  - 1
+  - 2
+  - 3
+  - Wall3
+  - press
+  - Collider1
+  - Collider2
+  - x
+  - Destroy
+  - Door1
+  - Door2
+  - Key
+  - Door4
+  - Magnum
+  - Dusman
+  - myControl
+  - Door5
+  - Diamond
+  - Exit
+  - Journal2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
